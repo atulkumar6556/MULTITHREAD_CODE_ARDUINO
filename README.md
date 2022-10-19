@@ -1,5 +1,5 @@
-# MULTITREAD_CODE_ARDUINO
-MULTITREAD_CODE_ARDUINO
+# MULTITHREAD_CODE_ARDUINO
+MULTITHREAD_CODE_ARDUINO
 
 DOWNLOAD LIBRARY LINK -  https://github.com/atulkumar6556/-Multithread-_in_Arduino/blob/main/TimedAction-master.zip
 
